@@ -6,9 +6,6 @@ __pycache__/
 .streamlit_demo_tmp/
 data_processed_search_results/
 
-# Raw downloaded/manually collected images
-data/
-
 # One-off review artifacts
 edge_*_review*.jpg
 
