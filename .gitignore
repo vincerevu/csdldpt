@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Streamlit/runtime temporary files
+.streamlit_demo_tmp/
+data_processed_search_results/
+
+# Raw downloaded/manually collected images
+data/
+
+# One-off review artifacts
+edge_*_review*.jpg
+
+# Local environment/editor files
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
